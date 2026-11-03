@@ -5,7 +5,7 @@ Online Cat Mediapipe Program - MeowCV
 A openCV program that detects faces and displays Tiktok cats.
 
 """
-
+#Esto es para la chamba
 import cv2
 import mediapipe as mp
 import os
